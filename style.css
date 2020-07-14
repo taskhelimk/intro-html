@@ -39,6 +39,8 @@ h1 {
     transition: background-size 0.25s ease-in;        
 }
 
+
+
 img {
     grid-row-start: 2;
     grid-column-start: 1;
